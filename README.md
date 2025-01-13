@@ -1,5 +1,5 @@
 # 👨🏻 About Me:
-💻 Currently working on exciting web development projects<br>🎓 Studying computer science at Azad University<br>🧑‍💻 Experienced in creating interactive, user-friendly applications<br>✨ Passionate about solving problems and building innovative solutions<br>📖 Always eager to learn new technologies and improve my skills<br>🌍 Exploring opportunities to make an impact through technology
+💻 Currently working on exciting web development projects<br>🎓 Studying Computer Software Engineering at Azad University<br>🧑‍💻 Experienced in creating interactive, user-friendly applications<br>✨ Passionate about solving problems and building innovative solutions<br>📖 Always eager to learn new technologies and improve my skills<br>🌍 Exploring opportunities to make an impact through technology
 
 
 ## 🌐 Socials:
