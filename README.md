@@ -17,5 +17,4 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/RezaPourdast/RezaPourdast/output/github-snake.svg" />
 </picture>
 
-
-![alt|500](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXpscWV3cnlicnV5Nm9zejU2cDI4ZTM3OTBzbnM4MDRuY200dWFkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif)
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXpscWV3cnlicnV5Nm9zejU2cDI4ZTM3OTBzbnM4MDRuY200dWFkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" alt="alt text" width="250" height="250">
