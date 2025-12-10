@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
   <a href="http://www.coffeete.ir/rezapourdast">
     <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
   </a>
