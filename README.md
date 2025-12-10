@@ -1,8 +1,9 @@
-<div style="display: flex; justify-content: center; align-items: center;">
+<p align="center">
   <a href="http://www.coffeete.ir/rezapourdast">
-    <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
+    <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" width="260px" alt="Buy me a coffee" />
   </a>
-</div>
+</p>
+
 
 
 
