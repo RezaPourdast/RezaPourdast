@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RezaPourdast/RezaPourdast/main/YoutubeBanner.png" alt="Reza Pourdast Banner" width="100%" />
+  <img src="/banner.png" alt="Reza Pourdast Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hey there, I'm Reza Pourdast</h1>
@@ -16,7 +16,7 @@ Hey, I’m **Reza Pourdast** — a self-taught **Web Developer** who loves turni
 I’m currently studying **Computer Software Engineering** at **Azad University**,  
 and constantly improving through personal projects, curiosity, and a bit of obsession with doing things right.
 
-💡 I love the mix of creativity and logic in programming — making things that not only work, but *feel good* to use.  
+💡 I love the mix of creativity and logic in programming — making things that not only work, but _feel good_ to use.  
 🦀 Recently exploring **Rust** and low-level development, just to challenge my comfort zone.  
 🏋️‍♂️ Outside of coding, I’m passionate about **fitness** and **self-growth** — building both body and mind one day at a time.  
 🚀 My goal: to create tools and experiences that actually help people — and to keep learning endlessly along the way.
@@ -24,6 +24,7 @@ and constantly improving through personal projects, curiosity, and a bit of obse
 ---
 
 ### 🧠 Tech Stack
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -53,7 +54,7 @@ and constantly improving through personal projects, curiosity, and a bit of obse
 
 ### 📂 Featured Projects
 
-- 🛰️ **[DNS Setter App](https://github.com/RezaPourdast/DNsight)** — A desktop tool for DNS and Ping management (built with Rust + Eframe)  
+- 🛰️ **[DNS Setter App](https://github.com/RezaPourdast/DNsight)** — A desktop tool for DNS and Ping management (built with Rust + Eframe)
 - 🎬 **[Netflix Clone](https://github.com/RezaPourdast/netflix-clone)** — A web app built with React (Vite), Firebase, and TMDb API, replicating Netflix’s UI and core features like authentication, movie browsing, and trailer playback.
 - ☀️ **[Weather App](https://github.com/RezaPourdast/weather-app)** — A web application built with React (Vite) and OpenWeatherMap API, providing real-time weather updates, forecasts, and location-based weather search with a clean and responsive UI.
 
@@ -61,15 +62,16 @@ and constantly improving through personal projects, curiosity, and a bit of obse
 
 ### 🧩 Fun Facts
 
-- 🔥 i Created the Dnsight app in less than 1 month of learning rust by my self.  
-- 🎮 Used to be a streamer when I was 15 — learned a lot about creativity and communication.  
+- 🔥 i Created the Dnsight app in less than 1 month of learning rust by my self.
+- 🎮 Used to be a streamer when I was 15 — learned a lot about creativity and communication.
 - 🍳 I can spend hours perfecting one tiny detail (yes, I’m a bit of a perfectionist).
 
 ---
 
 ### ☕ Support My Work
 
-If you like what I do, you can support me here 👇  
+If you like what I do, you can support me here 👇
+
 <p align="center">
   <a href="http://www.coffeete.ir/rezapourdast" target="_blank">
     <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
@@ -88,4 +90,4 @@ If you like what I do, you can support me here 👇
 
 ---
 
-⭐ *“Stay curious. Keep building. Never stop growing.”*
+⭐ _“Stay curious. Keep building. Never stop growing.”_
