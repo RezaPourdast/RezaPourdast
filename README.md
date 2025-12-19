@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/banner.png" alt="Reza Pourdast Banner" width="100%" />
+  <img src="RezaPourdast/.github/workflows/banner.png" alt="Reza Pourdast Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hey there, I'm Reza Pourdast</h1>
