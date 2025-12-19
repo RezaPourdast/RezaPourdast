@@ -57,9 +57,6 @@ and constantly improving through personal projects, curiosity, and a bit of obse
 - 🎬 **[Netflix Clone](https://github.com/RezaPourdast/netflix-clone)** — A web app built with React (Vite), Firebase, and TMDb API, replicating Netflix’s UI and core features like authentication, movie browsing, and trailer playback.
 - ☀️ **[Weather App](https://github.com/RezaPourdast/weather-app)** — A web application built with React (Vite) and OpenWeatherMap API, providing real-time weather updates, forecasts, and location-based weather search with a clean and responsive UI.
 
-
-*(You can replace links with your actual repos later!)*
-
 ---
 
 ### 🧩 Fun Facts
