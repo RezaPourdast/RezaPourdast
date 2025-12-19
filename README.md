@@ -1,7 +1,3 @@
-<!-- <p align="center">
-  <img src="RezaPourdast/.github/workflows/banner.png" alt="Reza Pourdast Banner" width="100%" />
-</p> -->
-
 ![Example Image](/banner.png)
 
 <h1 align="center">👋 Hey there, I'm Reza Pourdast</h1>
