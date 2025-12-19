@@ -13,6 +13,7 @@ I’m currently studying **Computer Software Engineering** at **Azad University*
 and constantly improving through personal projects, curiosity, and a bit of obsession with doing things right.
 
 💡 I love the mix of creativity and logic in programming — making things that not only work, but _feel good_ to use.  
+⚡ I’m a **fast learner**, always eager to pick up new technologies and tackle challenging problems.  
 🦀 Recently exploring **Rust** and low-level development, just to challenge my comfort zone.  
 🏋️‍♂️ Outside of coding, I’m passionate about **fitness** and **self-growth** — building both body and mind one day at a time.  
 🚀 My goal: to create tools and experiences that actually help people — and to keep learning endlessly along the way.
@@ -68,7 +69,7 @@ and constantly improving through personal projects, curiosity, and a bit of obse
 
 If you like what I do, you can support me here 👇
 
-<p align="center">
+<p>
   <a href="http://www.coffeete.ir/rezapourdast" target="_blank">
     <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
   </a>
@@ -78,11 +79,16 @@ If you like what I do, you can support me here 👇
 
 ### 📬 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/RezaPourdast"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://t.me/rezapourdast"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="mailto:s.rezapourdast@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<div align="left">
+  <a href="mailto:s.rezapourdast@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://t.me/rezapourdast" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+</div>
+
 
 ---
 
