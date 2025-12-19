@@ -1,7 +1,5 @@
 ![Banner](/Banner.png)
 
-<h1 align="center">👋 Hey there, I'm Reza Pourdast</h1>
-
 <p align="center">
   💻 Web Developer | 🦀 Rust Enthusiast (in progress) | 🏋️‍♂️ Fitness Lover | 💡 Lifelong Learner
 </p>
