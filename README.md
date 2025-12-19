@@ -1,4 +1,4 @@
-![Banner](/image/Banner.png)
+![Banner](/Banner.png)
 
 <h1 align="center">👋 Hey there, I'm Reza Pourdast</h1>
 
