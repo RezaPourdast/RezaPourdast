@@ -24,26 +24,39 @@ and constantly improving through personal projects, curiosity, and a bit of obse
 ---
 
 ### 🧠 Tech Stack
-
-💻 **Languages:**  
-JavaScript, TypeScript, Rust, HTML, CSS  
-
-⚙️ **Frameworks & Tools:**  
-React, Next.js, Node.js, Express, TailwindCSS, Vite  
-
-🗃️ **Databases:**  
-MongoDB, SQLite, PostgreSQL  
-
-🧰 **Other Tools:**  
-Git, GitHub, VS Code, Figma, SDL2, Linux
-
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" height="40" alt="sdl logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+</div>
 ---
 
 ### 📂 Featured Projects
 
-- 🛰️ **[DNS Setter App](#)** — A desktop tool for DNS and Ping management (built with Rust + SDL2)  
-- 🌐 **[Personal Portfolio](#)** — Clean and fast personal website (coming soon)  
-- ⚙️ **[Web Utilities](#)** — Collection of small but powerful web tools  
+- 🛰️ **[DNS Setter App](https://github.com/RezaPourdast/DNsight)** — A desktop tool for DNS and Ping management (built with Rust + Eframe)  
+- 🎬 **[Netflix Clone](https://github.com/RezaPourdast/netflix-clone)** — A web app built with React (Vite), Firebase, and TMDb API, replicating Netflix’s UI and core features like authentication, movie browsing, and trailer playback.
+- ☀️ **[Weather App](https://github.com/RezaPourdast/weather-app)** — A web application built with React (Vite) and OpenWeatherMap API, providing real-time weather updates, forecasts, and location-based weather search with a clean and responsive UI.
+
 
 *(You can replace links with your actual repos later!)*
 
@@ -51,10 +64,9 @@ Git, GitHub, VS Code, Figma, SDL2, Linux
 
 ### 🧩 Fun Facts
 
-- 🔥 I started learning Rust just a month ago — and built a full app with it.  
+- 🔥 i Created the Dnsight app in less than 1 month of learning rust by my self.  
 - 🎮 Used to be a streamer when I was 15 — learned a lot about creativity and communication.  
-- 🍳 I can spend hours perfecting one tiny detail (yes, I’m a bit of a perfectionist).  
-- 💪 Lost over **5 kg** in 2 weeks through gym and discipline — consistency is everything.
+- 🍳 I can spend hours perfecting one tiny detail (yes, I’m a bit of a perfectionist).
 
 ---
 
@@ -74,7 +86,7 @@ If you like what I do, you can support me here 👇
 <p align="center">
   <a href="https://github.com/RezaPourdast"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://t.me/rezapourdast"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="mailto:rezapourdast@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:s.rezapourdast@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
